@@ -1,1 +1,1 @@
-This is the instructor's notes on using github
+This is the instructor's notes on using github. Adding more here.
